@@ -1,65 +1,20 @@
-## Hi , i'm Renad Ahmed Ramdan 👋
+<h1 align="center">Hi 👋, I'm Renad Ahmed Ramdan</h1>
+<h3 align="center">AI Student at BUA | Competitive Programming</h3>
 
-<h3 align="center">
-AI Student at BUA | Competitive Programming
-</h3>
+- 💬 Ask me about **c++ ,OOP, - Data Structures & Algorithms**
 
----
+- 📫 How to reach me **mohamedabdalrasoul0@gmail.com**
 
-- 💬 Ask me about **C++, OOP, Data Structures & Algorithms**
+- ⚡ Fun fact **I enjoy teaching others what I’m learning — it helps me grow too!**
 
-- 📫 How to reach me **your_email@gmail.com**
+- <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNzAyNzcsIm5iZiI6MTc1MzE2OTk3NywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDA3MzkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZjU0N2NhZWRjYjRjZTk1NTUyMTdiNTI1YjYxOTViOWUyNTdjODljZjcxMWUzZjBhMWQ4MjRlODc0YTMzMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P1gx6yf6Fu36AfOG6jRa1D6qeS-cucLyMKD5omfyVWY" alt="Description of image">
 
-- ⚡ Fun fact **I enjoy teaching others what I'm learning — it helps me grow too!**
 
-<br>
-
-## Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://facebook.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=facebook" height="45"/>
-</a>
-
-<a href="https://instagram.com/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="https://codeforces.com/profile/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg"
-height="45"/>
-</a>
-
-<a href="https://leetcode.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg"
-height="45"/>
-</a>
+<a href="https://www.linkedin.com/in/renad-ahmed-9426a9342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamedabdalrasoul00" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Rreeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdalrasoul" height="30" width="40" /></a>
 </p>
 
-<br>
-
-## Languages and Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=cs" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
