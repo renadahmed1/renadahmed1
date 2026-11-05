@@ -7,13 +7,12 @@
 
 - ⚡ Fun fact **I enjoy teaching others what I’m learning — it helps me grow too!**
 
-- <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMxNzAyNzcsIm5iZiI6MTc1MzE2OTk3NywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzIyVDA3MzkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZjU0N2NhZWRjYjRjZTk1NTUyMTdiNTI1YjYxOTViOWUyNTdjODljZjcxMWUzZjBhMWQ4MjRlODc0YTMzMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P1gx6yf6Fu36AfOG6jRa1D6qeS-cucLyMKD5omfyVWY" alt="Description of image">
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/renad-ahmed-9426a9342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohamedabdalrasoul00" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Rreeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdalrasoul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renad-ahmed-9426a9342/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/renad ahmed" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Rreeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="renad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
